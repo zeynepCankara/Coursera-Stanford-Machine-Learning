@@ -15,7 +15,7 @@ The assignments require the Octave or MATLAB scientific computing languages.
 - `Special Applications/Special Topics`: Recommender Systems, Large Scale Machine Learning
 - `Advice on Building Machine Learning Systems`: Bias vs Variance trade-off, Regularization, Feature Engineering, Evaluation of learning curves, Error analysis, Ceiling analysis
 
-## Repository Content:
+## Repository Content: :star:
 
 - Slides
 - Assignments
@@ -29,5 +29,5 @@ The assignments require the Octave or MATLAB scientific computing languages.
 
 ## Review:
 
-* [[4] Linear Algebra Review and Reference] http://cs229.stanford.edu/section/cs229-linalg.pdf
-* [[5] Review of Probability Theory] http://cs229.stanford.edu/section/cs229-prob.pdf
+* [[4] Linear Algebra Review and Reference](http://cs229.stanford.edu/section/cs229-linalg.pdf)
+* [[5] Review of Probability Theory](http://cs229.stanford.edu/section/cs229-prob.pdf)
